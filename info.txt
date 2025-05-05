@@ -1,0 +1,23 @@
+TODO:
+    deixar o codigo minimamente melhor
+        fazer docstrings
+        fazer mais contantes pras coisas
+    v   mover umas funcoes de utils para move_checking
+        melhorar o bgl de se eh possivel rocar ou n
+    
+    fazer o en passant
+        salvar o ultimo movimento
+    
+    deixar a interface minimamente mais bonita
+        ta horrorosa
+    
+    processas os finais do jogo
+        checar se eh mate
+        checar empate pelos diversos criterios
+        fazer o botao de desistir
+    
+    criar uma pasta pro jogo e uma pasta pro bot de IA
+        comecar o bot de IA
+
+    ai depois botar esse bgl no github
+
